@@ -69,7 +69,6 @@ Developed by:LAL RHIDHISHAN R, RegisterNumber:25015767*/
 <img width="1614" height="944" alt="sub" src="https://github.com/user-attachments/assets/45f39a5b-da04-4fe4-8f9a-4d28dba3bb07" />
 
 **Output/TIMING Waveform**
-
 ##Half-Adder
 <img width="905" height="671" alt="add (2)" src="https://github.com/user-attachments/assets/acd335bb-5b34-46c4-8ec6-48377a61a10f" />
 
